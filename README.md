@@ -1,56 +1,114 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nodirjonDXB.nodirjonDXB" />
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nodirjon+Khomidov!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+👋+I'm+Nodirjon+Khomidov;Data+Analyst+%7C+Data+Scientist;Turning+Data+Into+Decisions" />
 </h1>
 
-<h3 align="center">A passionate DATA SCIENTIST from Uzbekistan 🇺🇿 </h3>
-<br/>
-<div align="center">
- 
- 🔭 I’m currently working on **data science project**
- 
- 🌱 I’m currently learning **AI, Machine Learning, Data Visualisation, Deep Learning**
- 💬 Ask me about **Python, R, SQL, Java... or anything [here](https://github.com/nodirjonDXB)**
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
+<h3 align="center">
+📊 Data Analyst & Aspiring Data Scientist from Uzbekistan 🇺🇿
+</h3>
 
- <div align="center"> 
+<br/>
+
+<div align="center">
+
+🔍 **I analyze data to uncover insights, build predictive models, and support business decisions**  
+
+📌 Currently focused on:
+**Python • SQL • Machine Learning • Data Visualization • Business Analytics**
+
+🚀 Goal: **Remote Data Analyst / Junior Data Scientist role**
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
   <a href="mailto:nkhomidov173@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-1F2937?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/nodirjon-khomidov-108bb3167" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-   
 </div>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-<br/>
-<hr/>
+---
+
+## 🧠 What I Do as a Data Analyst
+
+- 📈 Perform **Exploratory Data Analysis (EDA)** on real-world datasets
+- 🧮 Build **ML models** (classification & regression)
+- 🧠 Translate data into **clear business insights**
+- 📊 Create dashboards using **Power BI / Matplotlib / Seaborn**
+- 🗄️ Write optimized **SQL queries** for data extraction
+
+---
+
+## ⚒️ Tech Stack
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
+
+### 📊 Data & Analytics
+<img src="https://skillicons.dev/icons?i=python,r,mysql" />
+
+### 🤖 Machine Learning
+<img src="https://skillicons.dev/icons?i=python" />
+<br/>
+Pandas • NumPy • Scikit-Learn • XGBoost • Statistics
+
+### 📈 Visualization & Tools
+<img src="https://skillicons.dev/icons?i=github,vscode" />
+<br/>
+Power BI • Matplotlib • Seaborn • Excel
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+📂 **Customer Churn Prediction**
+- Built ML models to predict customer attrition
+- Algorithms: Logistic Regression, Random Forest, XGBoost
+- Achieved **~85% accuracy**
+- Business recommendation report included
+
+📂 **House Price Prediction**
+- Advanced EDA & feature engineering
+- Regression models with performance comparison
+- Kaggle-style notebook presentation
+
+📂 **Financial & Sales Analytics Dashboard**
+- Power BI dashboard with KPIs
+- Revenue trends & forecasting insights
+
+➡️ *More projects available in my repositories*
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nodirjonDXB&show_icons=true&theme=react" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirjonDXB&theme=react" />
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nodirjonkhomidov/nodirjonkhomidov/output/github-contribution-grid-snake.svg" />
-  <br/>
 </div>
-<hr/>
 
-<hr/>
+---
+
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
-</h3>
+💬 Open to collaboration, data challenges & remote opportunities  
 <br/>
+Let’s turn data into impact 🚀
+</h3>
 
-<!---
-nodirjonDXB/nodirjonDXB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
