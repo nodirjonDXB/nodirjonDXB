@@ -91,9 +91,7 @@ Power BI • Matplotlib • Seaborn • Excel
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nodirjonDXB&show_icons=true&theme=react" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirjonDXB&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api?username=nodirjonDXB&show_icons=true&theme=react&cache_seconds=1800" />
 </div>
 
 ---
@@ -101,7 +99,7 @@ Power BI • Matplotlib • Seaborn • Excel
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nodirjonkhomidov/nodirjonkhomidov/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirjonDXB&theme=react" />
 </div>
 
 ---
