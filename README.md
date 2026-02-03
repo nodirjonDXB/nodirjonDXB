@@ -88,22 +88,6 @@ Power BI • Matplotlib • Seaborn • Excel
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nodirjonDXB&show_icons=true&theme=react&cache_seconds=1800" />
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirjonDXB&theme=react" />
-</div>
-
----
-
 <h3 align="center">
 💬 Open to collaboration, data challenges & remote opportunities  
 <br/>
